@@ -4,6 +4,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+@font-face {
+  font-family: "Open Sans";
+  src: url("../fonts/open-sans.light.ttf");
+}
 
 
 body {
