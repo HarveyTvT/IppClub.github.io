@@ -35,7 +35,7 @@ people:
       url: #
 
 - name: Huozhi
-  pic: 3.jpg
+  pic: huozhi.png
   position: Developer
   social:
     - title: github
