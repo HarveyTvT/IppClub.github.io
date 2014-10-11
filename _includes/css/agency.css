@@ -8,7 +8,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Open Sans","Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans","Microsoft Yahei";
     color: #{{ site.color.secondary-dark }};
 }
 
@@ -55,7 +55,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans","Microsoft Yahei";
     font-weight: 100;
 }
 
@@ -74,8 +74,8 @@ h6 {
 .btn-primary {
     border-color: #{{ site.color.primary }};
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-family: "Open Sans","Microsoft Yahei";
+    font-weight: 100;
     color: #fff;
     background-color: #{{ site.color.primary }};
 }
@@ -125,9 +125,9 @@ fieldset[disabled] .btn-primary.active {
     border-color: #{{ site.color.primary }};
     border-radius: 3px;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans","Microsoft Yahei";
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 100;
     color: #fff;
     background-color: #{{ site.color.primary }};
 }
@@ -178,7 +178,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "Open Sans","Microsoft Yahei";
     color: #{{ site.color.primary }};
 }
 
@@ -209,8 +209,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .nav li a {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 400;
+    font-family: "Open Sans","Microsoft Yahei";
+    font-weight: 100;
     letter-spacing: 1px;
     color: #fff;
 }
@@ -284,18 +284,16 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans","Microsoft Yahei";
     font-size: 22px;
-    font-style: italic;
     line-height: 22px;
 }
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans","Microsoft Yahei";
     font-size: 50px;
-    font-weight: 700;
+    font-weight: 100;
     line-height: 50px;
 }
 
@@ -307,18 +305,16 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-family: "Open Sans","Microsoft Yahei";
         font-size: 40px;
-        font-style: italic;
         line-height: 40px;
     }
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        text-transform: uppercase;
-        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 75px;
-        font-weight: 700;
+        font-family: "Open Sans","Microsoft Yahei";
+        font-size: 45px;
+        font-weight: 100;
         line-height: 75px;
     }
 }
@@ -336,10 +332,10 @@ section h2.section-heading {
 section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans","Microsoft Yahei";
     font-size: 16px;
-    font-style: italic;
-    font-weight: 400;
+    
+    font-weight: 100;
 }
 
 @media(min-width:768px) {
@@ -415,9 +411,9 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item .portfolio-caption p {
     margin: 0;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans","Microsoft Yahei";
     font-size: 16px;
-    font-style: italic;
+    
 }
 
 #portfolio * {
@@ -689,29 +685,29 @@ section#contact .form-control:focus {
 
 section#contact::-webkit-input-placeholder {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-family: "Open Sans","Microsoft Yahei";
+    font-weight: 100;
     color: #bbb;
 }
 
 section#contact:-moz-placeholder {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-family: "Open Sans","Microsoft Yahei";
+    font-weight: 100;
     color: #bbb;
 }
 
 section#contact::-moz-placeholder {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-family: "Open Sans","Microsoft Yahei";
+    font-weight: 100;
     color: #bbb;
 }
 
 section#contact:-ms-input-placeholder {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-family: "Open Sans","Microsoft Yahei";
+    font-weight: 100;
     color: #bbb;
 }
 
@@ -727,7 +723,7 @@ footer {
 footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans","Microsoft Yahei";
     line-height: 40px;
 }
 
@@ -735,7 +731,7 @@ footer ul.quicklinks {
     margin-bottom: 0;
     text-transform: uppercase;
     text-transform: none;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans","Microsoft Yahei";
     line-height: 40px;
 }
 
@@ -793,9 +789,9 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans","Microsoft Yahei";
     font-size: 16px;
-    font-style: italic;
+    
 }
 
 .portfolio-modal .modal-content ul.list-inline {
@@ -866,5 +862,5 @@ body {
 
 
 * {
- font-family: "Open Sans";   
+ font-family: "Open Sans","Microsoft Yahei";
 }
