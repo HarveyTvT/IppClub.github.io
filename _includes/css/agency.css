@@ -5,14 +5,14 @@
  */
 
 @font-face {
-  font-family: "Open Sans";
-  src: url("/css/font-awesome/fonts/open-sans.light.ttf");
+    font-family: "Open Sans";
+    src: url("/css/font-awesome/fonts/OpenSans-Light.ttf");
 }
-
 
 body {
     overflow-x: hidden;
     font-family: "Open Sans","Microsoft Yahei";
+    font-weight: lighter;
     color: #{{ site.color.secondary-dark }};
 }
 
