@@ -1,0 +1,68 @@
+url: 
+baseurl: 
+
+# Site settings
+title: Ipp Club
+email: your-email@domain.com
+description: "我们是一群萌萌的搬砖工，i++是我家，啦啦啦啦啦【擦，happy tree friends既视感】"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503  
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+
+- name: JinGe
+  pic: pigpigyyy.png
+  position: Founder
+  social:
+    - title: github
+      url: https://github.com/pigpigyyy
+    - title: facebook
+      url: #
+
+
+- name: jaredlee
+  pic: jaredlee.jpg
+  position: Lead Developer
+  social:
+    - title: github
+      url: https://github.com/jaredlee/
+    - title: facebook
+      url: #
+
+- name: Huozhi
+  pic: 3.jpg
+  position: Developer
+  social:
+    - title: github
+      url: https://github.com/lavende/
+    - title: facebook
+      url: #
+
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Nanjing Jiangsu, CHINA 211189
+
+# Build settings
+markdown: kramdown
+permalink: pretty
