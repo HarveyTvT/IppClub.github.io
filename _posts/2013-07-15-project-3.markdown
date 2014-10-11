@@ -1,0 +1,16 @@
+---
+title: 麻袋信息科技网站
+subtitle: Web Development
+layout: default
+modal-id: 3
+date: 2013-07-15
+img: sackinfo.png
+thumbnail: sackinfo-thumbnail.png
+alt: image-alt
+project-date: July 2013
+client: Start Bootstrap
+category: Web Development
+description: 委托方：南京麻袋信息科技有限公司, 项目类型：客户端应用，C/S架构，Web应用，B/S架构, 参与人：徐湘、曹文龙
+
+
+---

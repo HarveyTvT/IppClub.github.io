@@ -1,0 +1,15 @@
+---
+title: 吾爱吾师
+subtitle: Web Development
+layout: default
+modal-id: 1
+date: 2013-04-15
+img: wuaiwushi.png
+thumbnail: wuaiwushi-thumbnail.png
+alt: image-alt
+project-date: April 2013
+client: Start Bootstrap
+category: Web Development
+description: 委托方：东南大学学生会, 项目类型： Web应用，B/S, 参与人： 徐湘、曹文龙、李加俊、印丛洋、黄凯.
+
+---

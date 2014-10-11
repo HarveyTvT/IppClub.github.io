@@ -1,0 +1,15 @@
+---
+title: 2013最有影响力毕业生
+subtitle: Web Development
+layout: default
+modal-id: 2
+date: 2013-05-05
+img: graduates2013.png
+thumbnail: graduates2013-thumbnail.png
+alt: image-alt
+project-date: May 2013
+client: Start Bootstrap
+category: Web Development
+description: 2013 年度最有影响力毕业生投票活动，参与者在网页上进行投票。Web应用，B/S架构, 参与人：徐湘、曹文龙、李加俊、印丛洋、黄凯
+
+---

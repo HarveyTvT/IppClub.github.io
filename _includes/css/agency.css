@@ -11,7 +11,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: sans-serif, "Open Sans", "HelveticaNeue-Light Light", Helvetica, "Lucida Grande", Arial;
+    font-family: "Open Sans", "HelveticaNeue-Light Light", Arial, Helvetica, "Lucida Grande", "Microsoft Yahei";
     font-weight: lighter;
     color: #{{ site.color.secondary-dark }};
 }
@@ -25,6 +25,7 @@ body {
 }
 
 p {
+    font-family: "Open Sans", "HelveticaNeue-Light Light", Arial, Helvetica, "Lucida Grande", "Microsoft Yahei";
     font-size: 14px;
     line-height: 1.75;
 }
@@ -58,8 +59,8 @@ h3,
 h4,
 h5,
 h6 {
+    font-family: "Open Sans", "HelveticaNeue-Light Light", Arial, Helvetica, "Lucida Grande", "Microsoft Yahei";
     text-transform: uppercase;
-    font-family: sans-serif, "Open Sans", "HelveticaNeue-Light Light", Helvetica, "Lucida Grande", Arial;
     font-weight: 100;
 }
 

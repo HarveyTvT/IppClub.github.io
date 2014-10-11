@@ -21,42 +21,53 @@ people:
   social:
     - title: github
       url: https://github.com/pigpigyyy
-    - title: facebook
-      url: #
 
 
 - name: jaredlee
   pic: jaredlee.jpg
-  position: Lead Developer
+  position: Lead Designer
   social:
     - title: github
       url: https://github.com/jaredlee/
-    - title: facebook
-      url: #
+
+- name: haeckel
+  pic: haeckel.jpg
+  position: Lead Developer
+  social:
+    - title: github
+      url: https://github.com/haeckel/
 
 - name: Huozhi
   pic: huozhi.png
-  position: Developer
+  position: Code Manager
   social:
     - title: github
       url: https://github.com/lavende/
-    - title: facebook
-      url: #
 
+- name: NanGe
+  pic: nange.jpg
+  position: Designer
+  social:
+    - title: github
+      url: https://github.com/pricklypearlsn
+
+
+- name: bingbing
+  pic: bingbing.png
+  position: Developer
+  social:
+    - title: github
+      url: https://github.com/695215742/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: laptop
+    url: http://ippclub.github.io
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/IppClub
+  - title: start-o
+    url: http://ippclub.org/
 
 # Postal address (add as many lines as necessary)
 address:
