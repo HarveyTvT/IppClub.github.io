@@ -4,8 +4,8 @@ subtitle: Web Development
 layout: default
 modal-id: 3
 date: 2013-07-15
-img: sackinfo.png
-thumbnail: sackinfo-thumbnail.png
+img: sackinfo.jpg
+thumbnail: sackinfo.jpg
 alt: image-alt
 project-date: July 2013
 client: Start Bootstrap

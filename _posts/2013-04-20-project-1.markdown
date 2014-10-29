@@ -4,8 +4,8 @@ subtitle: Web Development
 layout: default
 modal-id: 1
 date: 2013-04-15
-img: wuaiwushi.png
-thumbnail: wuaiwushi-thumbnail.png
+img: wuaiwushi.jpg
+thumbnail: wuaiwushi.jpg
 alt: image-alt
 project-date: April 2013
 client: Start Bootstrap
