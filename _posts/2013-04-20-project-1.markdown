@@ -4,7 +4,7 @@ subtitle: Web Development
 layout: default
 modal-id: 1
 date: 2013-04-15
-img: wuaiwushi.png
+img: wuaiwushi-thumbnail.png
 thumbnail: wuaiwushi-thumbnail.png
 alt: image-alt
 project-date: April 2013
