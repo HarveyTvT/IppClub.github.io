@@ -4,8 +4,8 @@ subtitle: Web Development
 layout: default
 modal-id: 2
 date: 2013-05-05
-img: graduates2013-thumbnail.png
-thumbnail: graduates2013-thumbnail.png
+img: graduates2013.jpg
+thumbnail: graduates2013.jpg
 alt: image-alt
 project-date: May 2013
 client: Start Bootstrap
